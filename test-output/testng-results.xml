@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="19" passed="19">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="128" started-at="2021-04-14T10:07:20Z" finished-at="2021-04-14T10:07:20Z">
+    <groups>
+      <group name="groups 2">
+        <method signature="DemoClass2.demo13()[pri:0, instance:april14.DemoClass2@3a82f6ef]" name="demo13" class="april14.DemoClass2"/>
+        <method signature="DemoClass2.demo14()[pri:0, instance:april14.DemoClass2@3a82f6ef]" name="demo14" class="april14.DemoClass2"/>
+      </group> <!-- groups 2 -->
+      <group name="groups 1">
+        <method signature="DemoClass2.demo11()[pri:0, instance:april14.DemoClass2@3a82f6ef]" name="demo11" class="april14.DemoClass2"/>
+      </group> <!-- groups 1 -->
+    </groups>
+    <test name="Test1" duration-ms="57" started-at="2021-04-14T10:07:20Z" finished-at="2021-04-14T10:07:20Z">
+      <class name="april14.DemoClass">
+        <test-method status="PASS" signature="demo1()[pri:0, instance:april14.DemoClass@6cc4c815]" name="demo1" duration-ms="8" started-at="2021-04-14T10:07:20Z" finished-at="2021-04-14T10:07:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo1 -->
+        <test-method status="PASS" signature="demo2()[pri:0, instance:april14.DemoClass@6cc4c815]" name="demo2" duration-ms="3" started-at="2021-04-14T10:07:20Z" finished-at="2021-04-14T10:07:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo2 -->
+        <test-method status="PASS" signature="demo3()[pri:0, instance:april14.DemoClass@6cc4c815]" name="demo3" duration-ms="1" started-at="2021-04-14T10:07:20Z" finished-at="2021-04-14T10:07:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo3 -->
+        <test-method status="PASS" signature="demo()[pri:1, instance:april14.DemoClass@6cc4c815]" name="demo" duration-ms="1" started-at="2021-04-14T10:07:20Z" finished-at="2021-04-14T10:07:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo -->
+      </class> <!-- april14.DemoClass -->
+      <class name="april14.DemoClass2">
+        <test-method status="PASS" signature="demo11()[pri:0, instance:april14.DemoClass2@3a82f6ef]" name="demo11" duration-ms="2" started-at="2021-04-14T10:07:20Z" finished-at="2021-04-14T10:07:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo11 -->
+        <test-method status="PASS" signature="demo12()[pri:0, instance:april14.DemoClass2@3a82f6ef]" name="demo12" duration-ms="1" started-at="2021-04-14T10:07:20Z" finished-at="2021-04-14T10:07:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo12 -->
+        <test-method status="PASS" signature="demo13()[pri:0, instance:april14.DemoClass2@3a82f6ef]" name="demo13" duration-ms="2" started-at="2021-04-14T10:07:20Z" finished-at="2021-04-14T10:07:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo13 -->
+        <test-method status="PASS" signature="demo14()[pri:0, instance:april14.DemoClass2@3a82f6ef]" name="demo14" duration-ms="3" started-at="2021-04-14T10:07:20Z" finished-at="2021-04-14T10:07:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo14 -->
+        <test-method status="PASS" signature="demo15()[pri:0, instance:april14.DemoClass2@3a82f6ef]" name="demo15" duration-ms="1" started-at="2021-04-14T10:07:20Z" finished-at="2021-04-14T10:07:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo15 -->
+      </class> <!-- april14.DemoClass2 -->
+    </test> <!-- Test1 -->
+    <test name="Test2" duration-ms="36" started-at="2021-04-14T10:07:20Z" finished-at="2021-04-14T10:07:20Z">
+      <class name="april14.DemoClass3">
+        <test-method status="PASS" signature="demo12()[pri:0, instance:april14.DemoClass3@18be83e4]" name="demo12" duration-ms="2" started-at="2021-04-14T10:07:20Z" finished-at="2021-04-14T10:07:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo12 -->
+        <test-method status="PASS" signature="demo13()[pri:0, instance:april14.DemoClass3@18be83e4]" name="demo13" duration-ms="2" started-at="2021-04-14T10:07:20Z" finished-at="2021-04-14T10:07:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo13 -->
+        <test-method status="PASS" signature="demo14()[pri:0, instance:april14.DemoClass3@18be83e4]" name="demo14" duration-ms="1" started-at="2021-04-14T10:07:20Z" finished-at="2021-04-14T10:07:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo14 -->
+        <test-method status="PASS" signature="demo15()[pri:0, instance:april14.DemoClass3@18be83e4]" name="demo15" duration-ms="1" started-at="2021-04-14T10:07:20Z" finished-at="2021-04-14T10:07:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo15 -->
+        <test-method status="PASS" signature="demo21()[pri:0, instance:april14.DemoClass3@18be83e4]" name="demo21" duration-ms="1" started-at="2021-04-14T10:07:20Z" finished-at="2021-04-14T10:07:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo21 -->
+      </class> <!-- april14.DemoClass3 -->
+      <class name="april14.DemoClass4">
+        <test-method status="PASS" signature="demo11()[pri:0, instance:april14.DemoClass4@cb5822]" name="demo11" duration-ms="1" started-at="2021-04-14T10:07:20Z" finished-at="2021-04-14T10:07:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo11 -->
+        <test-method status="PASS" signature="demo12()[pri:0, instance:april14.DemoClass4@cb5822]" name="demo12" duration-ms="1" started-at="2021-04-14T10:07:20Z" finished-at="2021-04-14T10:07:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo12 -->
+        <test-method status="PASS" signature="demo13()[pri:0, instance:april14.DemoClass4@cb5822]" name="demo13" duration-ms="2" started-at="2021-04-14T10:07:20Z" finished-at="2021-04-14T10:07:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo13 -->
+        <test-method status="PASS" signature="demo14()[pri:0, instance:april14.DemoClass4@cb5822]" name="demo14" duration-ms="5" started-at="2021-04-14T10:07:20Z" finished-at="2021-04-14T10:07:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo14 -->
+        <test-method status="PASS" signature="demo15()[pri:0, instance:april14.DemoClass4@cb5822]" name="demo15" duration-ms="1" started-at="2021-04-14T10:07:20Z" finished-at="2021-04-14T10:07:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo15 -->
+      </class> <!-- april14.DemoClass4 -->
+    </test> <!-- Test2 -->
+  </suite> <!-- Suite -->
+</testng-results>
